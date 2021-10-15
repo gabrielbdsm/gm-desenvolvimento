@@ -17,11 +17,11 @@
 
 }
 
-.root{
+:root{
     --fonte-1:  "Baloo Da 2", serif;
     --fonte-2: "Josefin Slab", serif;
     --fonte-acao: "Muli", serif;
-        scroll-behavior: smooth;
+
 
 }
 html{
